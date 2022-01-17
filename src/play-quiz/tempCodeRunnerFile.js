@@ -1,0 +1,2 @@
+
+  if (quiz.status === "loading") {
