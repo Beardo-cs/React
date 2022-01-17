@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/quizzes/static/css/main.95947924.css",
-    "main.js": "/quizzes/static/js/main.c1c9da7e.js",
-    "static/js/845.683d65b8.chunk.js": "/quizzes/static/js/845.683d65b8.chunk.js",
-    "static/media/131657__bertrof__game-sound-wrong.wav": "/quizzes/static/media/131657__bertrof__game-sound-wrong.e2d2c19dc9877c56a5fb.wav",
-    "static/media/131660__bertrof__game-sound-correct.wav": "/quizzes/static/media/131660__bertrof__game-sound-correct.cb47d7774aacf8a9e2ab.wav",
-    "static/media/memphis-colorful-dim.png": "/quizzes/static/media/memphis-colorful-dim.a1c8ddccaab07933c53c.png",
-    "index.html": "/quizzes/index.html",
-    "main.95947924.css.map": "/quizzes/static/css/main.95947924.css.map",
-    "main.c1c9da7e.js.map": "/quizzes/static/js/main.c1c9da7e.js.map",
-    "845.683d65b8.chunk.js.map": "/quizzes/static/js/845.683d65b8.chunk.js.map"
+    "main.css": "/React/static/css/main.e8310072.css",
+    "main.js": "/React/static/js/main.a6220329.js",
+    "static/js/845.683d65b8.chunk.js": "/React/static/js/845.683d65b8.chunk.js",
+    "static/media/131657__bertrof__game-sound-wrong.wav": "/React/static/media/131657__bertrof__game-sound-wrong.e2d2c19dc9877c56a5fb.wav",
+    "static/media/131660__bertrof__game-sound-correct.wav": "/React/static/media/131660__bertrof__game-sound-correct.cb47d7774aacf8a9e2ab.wav",
+    "static/media/memphis-colorful-dim.png": "/React/static/media/memphis-colorful-dim.a1c8ddccaab07933c53c.png",
+    "index.html": "/React/index.html",
+    "main.e8310072.css.map": "/React/static/css/main.e8310072.css.map",
+    "main.a6220329.js.map": "/React/static/js/main.a6220329.js.map",
+    "845.683d65b8.chunk.js.map": "/React/static/js/845.683d65b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95947924.css",
-    "static/js/main.c1c9da7e.js"
+    "static/css/main.e8310072.css",
+    "static/js/main.a6220329.js"
   ]
 }
