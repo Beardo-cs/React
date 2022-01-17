@@ -27,16 +27,16 @@ function QuizForm({ initialData = {}, onSave, onDelete, isSaving }) {
       return { ...prev, title: e.target.value };
     });
   };
-  const onDescriptionChange = (e) =>
-    setFormValues((prev) => ({ ...prev, description: e.target.value }));
-  const onDifficultyChange = (e) =>
-    setFormValues((prev) => ({ ...prev, difficulty: e.target.value }));
-    const onQuestionChange = (e) =>
-    setFormValues((prev) => ({ ...prev, question : e.target.value }));
-    const onCorrectAnswerChange = (e) =>
-    setFormValues((prev) => ({ ...prev, correctAnswer : e.target.value }));
-    const onInCorrectAnswerChange = (e) =>
-    setFormValues((prev) => ({ ...prev, incorrectAnswer : e.target.value }));
+  // const onDescriptionChange = (e) =>
+  //   setFormValues((prev) => ({ ...prev, description: e.target.value }));
+  // const onDifficultyChange = (e) =>
+  //   setFormValues((prev) => ({ ...prev, difficulty: e.target.value }));
+  //   const onQuestionChange = (e) =>
+  //   setFormValues((prev) => ({ ...prev, question : e.target.value }));
+  //   const onCorrectAnswerChange = (e) =>
+  //   setFormValues((prev) => ({ ...prev, correctAnswer : e.target.value }));
+  //   const onInCorrectAnswerChange = (e) =>
+  //   setFormValues((prev) => ({ ...prev, incorrectAnswer : e.target.value }));
 
   return (
     <Form onSubmit={onSubmit} disabled={isSaving}>
@@ -95,6 +95,7 @@ function QuizForm({ initialData = {}, onSave, onDelete, isSaving }) {
           Delete Quiz
         </button>
       </div>
+      
     </Form>
   );
 }

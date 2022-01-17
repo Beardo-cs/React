@@ -16,8 +16,6 @@ function EditQuizPage() {
   const saveQuiz = (newQuizData) => {
     const ownerId = userState.userId;
     const ownerName = userState.user.displayName;
-    const question = userState.question;
-    const correctAnswer = userState.correctAnswer;
 
     // const correctAnswer = userState.user.correctAnswer;
     // const incorrectAnswer = userState.user.incorrectAnswer;
